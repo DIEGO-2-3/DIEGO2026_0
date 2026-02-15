@@ -1,0 +1,6 @@
+=== COMPROBANTE DE VENTA ===
+Fecha: 2/2/2026
+Producto: Ace
+Cantidad: 1 unid
+Total: S/. 0.00
+============================

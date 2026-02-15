@@ -1,0 +1,4 @@
+PRODUCTO: leche
+TIPO: SALIDA
+CANTIDAD: 2
+------------------------

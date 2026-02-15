@@ -1,0 +1,2 @@
+admin 4567 ADMIN
+empleado 4567 EMPLEADO
