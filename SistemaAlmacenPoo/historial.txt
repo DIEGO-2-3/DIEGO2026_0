@@ -1,0 +1,4 @@
+Galleta ENTRADA 2 2 2 2 2026
+Galleta SALIDA 1 1 2 2 2026
+Galleta ENTRADA 2 4 2 2 2026
+Galleta SALIDA 10 20 2 2 2026

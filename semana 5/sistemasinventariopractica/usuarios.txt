@@ -1,0 +1,2 @@
+admin dgplq ADMIN
+vendedor 456 EMPLEADO
